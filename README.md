@@ -5,6 +5,9 @@ in the programming language [MUMPS](https://en.wikipedia.org/wiki/MUMPS).
 
 Just to show that you can.
 
+- [Quine 0](./quine0.mps) is a quine because many MUMPS implementations
+  output nothing when they execute an empty source file.
+
 - [Quine 1](./quine1.mps) cheats by using the introspective $t function
   to read its own code.
 
